@@ -1,2 +1,2 @@
-# My-second-repository
+# Repositorio de practica git pull
 Repositorio en donde practico con git pull...
